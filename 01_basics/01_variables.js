@@ -18,7 +18,8 @@ prefer not to use var
 because of issue in block scope and functional scope
 */
 
+var accountHasLocker = false;
 
 
 
-console.table([accountId,accountEmail,accountPassword,accountCity,accoutState,ifc,pincod,aci])
+console.table([accountId,accountEmail,accountPassword,accountCity,accoutState,ifc,pincod,accountCity,accountHasLocker])
