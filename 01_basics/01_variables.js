@@ -19,7 +19,7 @@ because of issue in block scope and functional scope
 */
 
 var accountHasLocker = false;
+var accountHasSaving = true;
 
 
-
-console.table([accountId,accountEmail,accountPassword,accountCity,accoutState,ifc,pincod,accountCity,accountHasLocker])
+console.table([accountId,accountEmail,accountPassword,accountCity,accoutState,ifc,pincod,accountCity,accountHasLocker,accountHasSaving])
