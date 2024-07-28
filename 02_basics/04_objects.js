@@ -8,4 +8,17 @@ tinderUser.isLoggedIn = false
 
 
 
-console.log(tinderUser);
+//console.log(tinderUser);
+
+
+const regularUser = {
+    email: "some@gmail.com",
+    fullname: {
+        userfullname: {
+            firstname: "Mahesh",
+            lastname: "Yogi"
+        }
+    }
+}
+
+console.log(regularUser.fullname,);

@@ -56,6 +56,7 @@ let userOne = {
         upi: "user@ybl"
 }
 
+let bank = {}
 let userTwo = userOne
 
 userTwo.email ="mahesh@google.com"
