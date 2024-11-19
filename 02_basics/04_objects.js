@@ -66,3 +66,15 @@ const course = {
 
 const{courseInstuctor: instuctor} = course
 console.log(instuctor);
+
+
+{
+    "name": "Mahesh",
+    "coursename": "js in hindi",
+    "price": "free",
+}
+
+[
+    {},
+    {},
+]
